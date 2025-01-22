@@ -1,4 +1,5 @@
 -- DATASETİ YÜKLEMEK İÇİN CREATE ETTİĞİM TABLOLAR VE TABLO İÇERİKLERİ ;
+-- Kullanılan dataset HR departmanına ait, personel bilgilerini içermektedir.
 
 CREATE TABLE regions (
 	region_id SERIAL PRIMARY KEY,
